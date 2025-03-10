@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/shabana998/shabana998/blob/main/Purple%20White%20Modern%20Gaming%20Channel%20Twitch%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shabana Khatoon</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 

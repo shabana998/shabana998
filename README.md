@@ -46,12 +46,3 @@
 </p>
 
 ---
-
-### GitHub Stats:
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shabana998&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shabana998&" alt="GitHub Streak"/>
-</p>
